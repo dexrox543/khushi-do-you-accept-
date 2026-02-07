@@ -1,5 +1,5 @@
  
-- View Live: [Click Here](https://vatsal543.github.io/khushi-do-you-accept/)
+- View Live: [Click Here](https://dexrox543.github.io/khushi-do-you-accept-/)
 
 # Contributions
 - A french & thai version of the above have been added to the site. Use the language selecter :D
