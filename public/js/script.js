@@ -128,7 +128,7 @@ function changeLanguage() {
     } else if (language === "thai") {
         questionHeading.textContent = "คืนดีกับเราได้อ่ะป่าว?";
     } else {
-        questionHeading.textContent = "Hello Khushi!! Will You Be My Gwen?";
+        questionHeading.textContent = "Hello Khushi, Will You Be My Gwen?";
     }
 
     // Reset yes button text
